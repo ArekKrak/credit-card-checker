@@ -3,7 +3,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Language-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![Node.js](https://img.shields.io/badge/Node.js-Runtime-339933?logo=nodedotjs&logoColor=white&style=flat)
 ![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white&style=flat)](https://github.com/<your-username>/<repo-name>)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white&style=flat)](https://github.com/ArekKrak/credit-card-checker)
 
 A JavaScript program that validates credit card numbers using the Luhn algorithm, identifies invalid cards, and reports the issuing companies — based on the Codecademy Credit Card Checker challenge project. This project automates the manual checking process, providing quick and reusable validation logic for multiple credit cards at once.
 
@@ -29,17 +29,19 @@ Your company suspects that credit card distributors have been sending out cards 
 
 ## 📂 Project Structure
 
+```
 credit-card-checker/
 ├── main.js        # Main program logic
 └── README.md      # Project documentation
+```
 
 ---
 
 ## 🚀 How to Run
 
 1. Clone the repository:
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/ArekKrak/credit-card-checker.git
+   cd credit-card-checker
 2. Run with Node.js:
    Make sure Node.js is installed:
    node -v
