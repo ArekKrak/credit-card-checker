@@ -46,15 +46,13 @@ credit-card-checker/
 ```
 2. Run with Node.js:
     - Make sure Node.js is installed:
-  ```
+```
   node -v
-  ```
-
+```
     - Run the program:
-    
-  ```
+```
   node main.js
-  ```
+```
 
 ---
 
