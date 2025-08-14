@@ -50,8 +50,8 @@ credit-card-checker/
   node -v
 ```
 
-    - Run the program:
-    
+  - Run the program:
+
 ```
   node main.js
 ```
