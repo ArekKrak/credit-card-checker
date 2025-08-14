@@ -40,13 +40,17 @@ credit-card-checker/
 ## 🚀 How to Run
 
 1. Clone the repository:
-    - git clone https://github.com/ArekKrak/credit-card-checker.git
-    - cd credit-card-checker
+```
+  - git clone https://github.com/ArekKrak/credit-card-checker.git
+  - cd credit-card-checker
+```
 2. Run with Node.js:
-    - Make sure Node.js is installed:
-    - node -v
-    - Run the program:
-    - node main.js
+```
+  - Make sure Node.js is installed:
+  - node -v
+  - Run the program:
+  - node main.js
+```
 
 ---
 
