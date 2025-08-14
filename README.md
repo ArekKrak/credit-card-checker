@@ -21,9 +21,9 @@ Your company suspects that credit card distributors have been sending out cards 
 
 ## 🛠️ Tech Stack
 
-- JavaScript (ES6+)
-- Node.js (runtime environment)
-- Tools: Visual Studio Code, Git, GitHub
+- **JavaScript (ES6+)**
+- **Node.js** (for running the script locally)
+- **Tools**: Visual Studio Code, Git, GitHub
 
 ---
 
